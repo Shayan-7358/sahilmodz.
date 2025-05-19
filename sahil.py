@@ -16,7 +16,7 @@ bot = telebot.TeleBot(TOKEN)
 REQUEST_INTERVAL = 1
 
 # Admins list
-ADMIN_IDS = [2085082046]  # Replace with actual admin user IDs
+ADMIN_IDS = [5676426127]  # Replace with actual admin user IDs
 
 # File to store user information
 USERS_FILE = 'users.txt'
